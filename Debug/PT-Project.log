@@ -1,0 +1,215 @@
+﻿Build started 3/16/2020 12:16:30 AM.
+     1>Project "E:\ENG\First Year\First Term\Programming Technique\Material 2020\Project\E3 - Copy\E3\PT-Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt Action.cpp AddCardAction.cpp AddLadderAction.cpp AddSnakeAction.cpp ApplicationManager.cpp Card.cpp CardEight.cpp CardEleven.cpp CardFive.cpp CardFour.cpp CardFourteen.cpp CardNine.cpp CardOne.cpp CardSeven.cpp CardSix.cpp CardTen.cpp CardThirteen.cpp CardThree.cpp CardTwelve.cpp CardTwo.cpp Cell.cpp CellPosition.cpp CMUgraphicsLib\auxil.cpp CMUgraphicsLib\CMUgraphics.cpp CMUgraphicsLib\colors.cpp CMUgraphicsLib\image.cpp CMUgraphicsLib\keyqueue.cpp CMUgraphicsLib\mousequeue.cpp CMUgraphicsLib\windowinput.cpp CopyCard.cpp CutCard.cpp DeleteGameObject.cpp EditCardAction.cpp Fire.cpp GameObject.cpp Grid.cpp Ice.cpp Input.cpp InputDiceValue.cpp Ladder.cpp Lightening.cpp NewGame.cpp OpenGridAction.cpp Output.cpp PasteCard.cpp Player.cpp Main.cpp Poison.cpp RollDiceAction.cpp SaveGridAction.cpp Snake.cpp SpecialAttack.cpp SwitchToDesignMode.cpp SwitchToPlayMode.cpp
+         SwitchToPlayMode.cpp
+         SwitchToDesignMode.cpp
+         SpecialAttack.cpp
+         Snake.cpp
+         SaveGridAction.cpp
+         RollDiceAction.cpp
+         Poison.cpp
+         Main.cpp
+         Player.cpp
+         PasteCard.cpp
+         Output.cpp
+         OpenGridAction.cpp
+         NewGame.cpp
+         Lightening.cpp
+         Ladder.cpp
+         InputDiceValue.cpp
+         Input.cpp
+         Ice.cpp
+         Grid.cpp
+         GameObject.cpp
+         Generating Code...
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\input.cpp(145): warning C4715: 'Input::GetUserAction' : not all control paths return a value
+         Compiling...
+         Fire.cpp
+         EditCardAction.cpp
+         DeleteGameObject.cpp
+         CutCard.cpp
+         CopyCard.cpp
+         windowinput.cpp
+         mousequeue.cpp
+         keyqueue.cpp
+         image.cpp
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\image.cpp(115): warning C4018: '<' : signed/unsigned mismatch
+         colors.cpp
+         CMUgraphics.cpp
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iY' : unreferenced local variable
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(257): warning C4101: 'iX' : unreferenced local variable
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(751): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(1164): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(1171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(1202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(1210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\cmugraphics.cpp(1357): warning C4018: '>' : signed/unsigned mismatch
+         auxil.cpp
+         CellPosition.cpp
+         Cell.cpp
+         CardTwo.cpp
+         CardTwelve.cpp
+         CardThree.cpp
+         CardThirteen.cpp
+         CardTen.cpp
+         CardSix.cpp
+         Generating Code...
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cellposition.cpp(77): warning C4715: 'CellPosition::GetCellNumFromPosition' : not all control paths return a value
+         Compiling...
+         CardSeven.cpp
+         CardOne.cpp
+         CardNine.cpp
+         CardFourteen.cpp
+         CardFour.cpp
+         CardFive.cpp
+         CardEleven.cpp
+         CardEight.cpp
+         Card.cpp
+         ApplicationManager.cpp
+         AddSnakeAction.cpp
+         AddLadderAction.cpp
+         AddCardAction.cpp
+         Action.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /FR".\Debug\\" /Gd /TC /analyze- /errorReport:prompt CMUgraphicsLib\jpegload.c CMUgraphicsLib\jpeg\jcomapi.c CMUgraphicsLib\jpeg\jcparam.c CMUgraphicsLib\jpeg\jdapimin.c CMUgraphicsLib\jpeg\jdapistd.c CMUgraphicsLib\jpeg\jdatasrc.c CMUgraphicsLib\jpeg\jdcoefct.c CMUgraphicsLib\jpeg\jdcolor.c CMUgraphicsLib\jpeg\jddctmgr.c CMUgraphicsLib\jpeg\jdhuff.c CMUgraphicsLib\jpeg\jdinput.c CMUgraphicsLib\jpeg\jdmainct.c CMUgraphicsLib\jpeg\jdmarker.c CMUgraphicsLib\jpeg\jdmaster.c CMUgraphicsLib\jpeg\jdmerge.c CMUgraphicsLib\jpeg\jdphuff.c CMUgraphicsLib\jpeg\jdpostct.c CMUgraphicsLib\jpeg\jdsample.c CMUgraphicsLib\jpeg\jdtrans.c CMUgraphicsLib\jpeg\jerror.c CMUgraphicsLib\jpeg\jidctflt.c CMUgraphicsLib\jpeg\jidctfst.c CMUgraphicsLib\jpeg\jidctint.c CMUgraphicsLib\jpeg\jidctred.c CMUgraphicsLib\jpeg\jmemmgr.c CMUgraphicsLib\jpeg\jmemnobs.c CMUgraphicsLib\jpeg\jquant1.c CMUgraphicsLib\jpeg\jquant2.c CMUgraphicsLib\jpeg\jutils.c
+         jutils.c
+         jquant2.c
+         jquant1.c
+         jmemnobs.c
+         jmemmgr.c
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\jpeg\jmemmgr.c(1103): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(449) : see declaration of 'getenv'
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\jpeg\jmemmgr.c(1106): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(311) : see declaration of 'sscanf'
+         jidctred.c
+         jidctint.c
+         jidctfst.c
+         jidctflt.c
+         jerror.c
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\jpeg\jerror.c(169): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\jpeg\jerror.c(175): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+         jdtrans.c
+         jdsample.c
+         jdpostct.c
+         jdphuff.c
+         jdmerge.c
+         jdmaster.c
+         jdmarker.c
+         jdmainct.c
+         jdinput.c
+         jdhuff.c
+         Generating Code...
+         Compiling...
+         jddctmgr.c
+         jdcolor.c
+         jdcoefct.c
+         jdatasrc.c
+         jdapistd.c
+         jdapimin.c
+         jcparam.c
+         jcomapi.c
+         jpegload.c
+     1>e:\eng\first year\first term\programming technique\material 2020\project\e3 - copy\e3\cmugraphicslib\jpegload.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/PT Project.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/PT Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\PT Project.lib" /MACHINE:X86 /SAFESEH .\Debug/Action.obj
+         .\Debug/AddCardAction.obj
+         .\Debug/AddLadderAction.obj
+         .\Debug/AddSnakeAction.obj
+         .\Debug/ApplicationManager.obj
+         .\Debug/Card.obj
+         .\Debug/CardEight.obj
+         .\Debug/CardEleven.obj
+         .\Debug/CardFive.obj
+         .\Debug/CardFour.obj
+         .\Debug/CardFourteen.obj
+         .\Debug/CardNine.obj
+         .\Debug/CardOne.obj
+         .\Debug/CardSeven.obj
+         .\Debug/CardSix.obj
+         .\Debug/CardTen.obj
+         .\Debug/CardThirteen.obj
+         .\Debug/CardThree.obj
+         .\Debug/CardTwelve.obj
+         .\Debug/CardTwo.obj
+         .\Debug/Cell.obj
+         .\Debug/CellPosition.obj
+         .\Debug/auxil.obj
+         .\Debug/CMUgraphics.obj
+         .\Debug/colors.obj
+         .\Debug/image.obj
+         .\Debug/jpegload.obj
+         .\Debug/keyqueue.obj
+         .\Debug/mousequeue.obj
+         .\Debug/windowinput.obj
+         .\Debug/jcomapi.obj
+         .\Debug/jcparam.obj
+         .\Debug/jdapimin.obj
+         .\Debug/jdapistd.obj
+         .\Debug/jdatasrc.obj
+         .\Debug/jdcoefct.obj
+         .\Debug/jdcolor.obj
+         .\Debug/jddctmgr.obj
+         .\Debug/jdhuff.obj
+         .\Debug/jdinput.obj
+         .\Debug/jdmainct.obj
+         .\Debug/jdmarker.obj
+         .\Debug/jdmaster.obj
+         .\Debug/jdmerge.obj
+         .\Debug/jdphuff.obj
+         .\Debug/jdpostct.obj
+         .\Debug/jdsample.obj
+         .\Debug/jdtrans.obj
+         .\Debug/jerror.obj
+         .\Debug/jidctflt.obj
+         .\Debug/jidctfst.obj
+         .\Debug/jidctint.obj
+         .\Debug/jidctred.obj
+         .\Debug/jmemmgr.obj
+         .\Debug/jmemnobs.obj
+         .\Debug/jquant1.obj
+         .\Debug/jquant2.obj
+         .\Debug/jutils.obj
+         .\Debug/CopyCard.obj
+         .\Debug/CutCard.obj
+         .\Debug/DeleteGameObject.obj
+         .\Debug/EditCardAction.obj
+         .\Debug/Fire.obj
+         .\Debug/GameObject.obj
+         .\Debug/Grid.obj
+         .\Debug/Ice.obj
+         .\Debug/Input.obj
+         .\Debug/InputDiceValue.obj
+         .\Debug/Ladder.obj
+         .\Debug/Lightening.obj
+         .\Debug/NewGame.obj
+         .\Debug/OpenGridAction.obj
+         .\Debug/Output.obj
+         .\Debug/PasteCard.obj
+         .\Debug/Player.obj
+         .\Debug/Main.obj
+         .\Debug/Poison.obj
+         .\Debug/RollDiceAction.obj
+         .\Debug/SaveGridAction.obj
+         .\Debug/Snake.obj
+         .\Debug/SpecialAttack.obj
+         .\Debug/SwitchToDesignMode.obj
+         .\Debug/SwitchToPlayMode.obj
+     1>Action.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         PT-Project.vcxproj -> E:\ENG\First Year\First Term\Programming Technique\Material 2020\Project\E3 - Copy\E3\.\Debug\PT Project.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o".\Debug/PT Project.bsc" .\Debug\Action.sbr .\Debug\AddCardAction.sbr .\Debug\AddLadderAction.sbr .\Debug\AddSnakeAction.sbr .\Debug\ApplicationManager.sbr .\Debug\Card.sbr .\Debug\CardEight.sbr .\Debug\CardEleven.sbr .\Debug\CardFive.sbr .\Debug\CardFour.sbr .\Debug\CardFourteen.sbr .\Debug\CardNine.sbr .\Debug\CardOne.sbr .\Debug\CardSeven.sbr .\Debug\CardSix.sbr .\Debug\CardTen.sbr .\Debug\CardThirteen.sbr .\Debug\CardThree.sbr .\Debug\CardTwelve.sbr .\Debug\CardTwo.sbr .\Debug\Cell.sbr .\Debug\CellPosition.sbr .\Debug\auxil.sbr .\Debug\CMUgraphics.sbr .\Debug\colors.sbr .\Debug\image.sbr .\Debug\jpegload.sbr .\Debug\keyqueue.sbr .\Debug\mousequeue.sbr .\Debug\windowinput.sbr .\Debug\jcomapi.sbr .\Debug\jcparam.sbr .\Debug\jdapimin.sbr .\Debug\jdapistd.sbr .\Debug\jdatasrc.sbr .\Debug\jdcoefct.sbr .\Debug\jdcolor.sbr .\Debug\jddctmgr.sbr .\Debug\jdhuff.sbr .\Debug\jdinput.sbr .\Debug\jdmainct.sbr .\Debug\jdmarker.sbr .\Debug\jdmaster.sbr .\Debug\jdmerge.sbr .\Debug\jdphuff.sbr .\Debug\jdpostct.sbr .\Debug\jdsample.sbr .\Debug\jdtrans.sbr .\Debug\jerror.sbr .\Debug\jidctflt.sbr .\Debug\jidctfst.sbr .\Debug\jidctint.sbr .\Debug\jidctred.sbr .\Debug\jmemmgr.sbr .\Debug\jmemnobs.sbr .\Debug\jquant1.sbr .\Debug\jquant2.sbr .\Debug\jutils.sbr .\Debug\CopyCard.sbr .\Debug\CutCard.sbr .\Debug\DeleteGameObject.sbr .\Debug\EditCardAction.sbr .\Debug\Fire.sbr .\Debug\GameObject.sbr .\Debug\Grid.sbr .\Debug\Ice.sbr .\Debug\Input.sbr .\Debug\InputDiceValue.sbr .\Debug\Ladder.sbr .\Debug\Lightening.sbr .\Debug\NewGame.sbr .\Debug\OpenGridAction.sbr .\Debug\Output.sbr .\Debug\PasteCard.sbr .\Debug\Player.sbr .\Debug\Main.sbr .\Debug\Poison.sbr .\Debug\RollDiceAction.sbr .\Debug\SaveGridAction.sbr .\Debug\Snake.sbr .\Debug\SpecialAttack.sbr .\Debug\SwitchToDesignMode.sbr .\Debug\SwitchToPlayMode.sbr
+     1>Done Building Project "E:\ENG\First Year\First Term\Programming Technique\Material 2020\Project\E3 - Copy\E3\PT-Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:02:40.05
